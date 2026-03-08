@@ -4,6 +4,12 @@
 
 <h1 align="center">LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models</h1>
 
+<p align="center">
+  <a href="https://github.com/orgs/spatial-ninjas/projects/1">
+    📋 Project Board
+  </a>
+</p>
+
 ## Overview
 
 This organization hosts the repositories for the project **LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models**.
@@ -28,6 +34,9 @@ If you are joining the project, the following steps will help you get oriented.
    Familiarize yourself with the goals of the project and the key research questions described in this document.
 
 2. **Check the GitHub Project board**
+
+   The project board is available here:  
+   **https://github.com/orgs/spatial-ninjas/projects/1**
 
    The GitHub Project board contains the **master backlog** and the **current sprint backlog**.  
    The master backlog is the main place for collecting tasks, ideas, and possible research directions.
@@ -72,7 +81,7 @@ If you are joining the project, the following steps will help you get oriented.
 
 ## Project Management
 
-Project management is handled via the **GitHub Project board** associated with this organization, organized into two task collections:
+Project management is handled via the [GitHub Project board](https://github.com/orgs/spatial-ninjas/projects/1) associated with this organization, organized into two task collections:
 
 - **Master backlog**: the complete list of known tasks, ideas, and research directions.
 - **Sprint backlog**: the subset of tasks selected for the current sprint.
