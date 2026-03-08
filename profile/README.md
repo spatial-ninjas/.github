@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="space-ninja-logo.svg" height="200" alt="Space ninja logo">
+  <img src="https://raw.githubusercontent.com/spatial-ninjas/.github/95099f7cb65705f48a7186c69a1f2b05d5c1214c/profile/space-ninja-logo.svg" height="200" alt="Space ninja logo">
 </p>
 
 <h1 align="center">LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models</h1>
