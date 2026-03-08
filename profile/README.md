@@ -1,5 +1,8 @@
-# LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models
+<p align="center">
+  <img src="space-ninja-logo.svg" height="200" alt="Space ninja logo">
+</p>
 
+<h1 align="center">LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models</h1>
 
 ## Overview
 
