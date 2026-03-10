@@ -112,7 +112,12 @@ The board is the primary tool for sprint planning, task tracking, and progress v
 
 ## Project Log
 
-The course requires a **project log** documenting the development process. Each meeting entry should include:
+Meeting notes and sprint logs are stored in the repository:
+
+📂 `.github/project-log`
+
+
+Each entry contains:
 
 - Date
 - Participants
