@@ -1,11 +1,11 @@
 # Sprint 1 Planning Meeting Notes
 
-**Project:** LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models
-**Team:** Spatial Ninjas
-**Date:** Tue, 10.3.2026 12:00-13:15
-**Place:** Room 1004, Ekonominaukio 1 (School of Business)
-**Meeting type:** Sprint 1 Planning
-**Participants:** Ki Chun, Oliver, Pawel, Topi, Totti, Eemil
+**Project:** LLM Spatial Reasoning: Evaluating and Enhancing Geographic Cognition in Language Models  
+**Team:** Spatial Ninjas  
+**Date:** Tue, 10.3.2026 12:00-13:15  
+**Place:** Room 1004, Ekonominaukio 1 (School of Business)  
+**Meeting type:** Sprint 1 Planning  
+**Participants:** Ki Chun, Oliver, Pawel, Topi, Totti, Eemil  
 **Facilitator:** Ki Chun (Scrum Master)
 
 
@@ -304,16 +304,14 @@ This allows each member to develop deeper expertise while maintaining shared pro
 
 # 17. Paper Assignments
 
-Based on the project board:
+Based on the project board, the Sprint 1 paper assignments are:
 
-| Member  | Paper                 |
-| ------- | --------------------- |
-| Pawel   | Manvi et al. (GeoLLM) |
-| Oliver  | Yang et al.           |
-| Ki Chun | Wu et al.             |
-| Topi    | Wang et al.           |
-| Totti   | Mooney et al.         |
-| Eemil   | Xu et al.             |
+- **Pawel** – Manvi et al. (2024), *GeoLLM: Extracting Geospatial Knowledge from Large Language Models*
+- **Oliver** – Yang et al. (2025), *Evaluating and Enhancing Spatial Cognition Abilities of Large Language Models*
+- **Ki Chun** – Wu et al. (2024), *Mind’s Eye of LLMs: Visualization-of-Thought*
+- **Topi** – Wang et al. (2026), *LLM-GeoTextCog: A Cognitive Enhancement Framework for Geospatial Scene Understanding*
+- **Totti** – Mooney et al. (2023), *Towards Understanding the Geospatial Skills of ChatGPT: Taking a GIS Exam*
+- **Eemil** – Xu et al. (2025), *Evaluating Large Language Models on Geospatial Tasks: A Multiple Geospatial Task Benchmarking Study*
 
 Each member will summarize their assigned paper and contribute findings to the literature overview.
 
