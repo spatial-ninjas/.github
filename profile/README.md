@@ -25,6 +25,25 @@ The repositories in this organization provide the workspace for:
 - Project log and course deliverables
 
 
+## Project Timeline
+
+| Date           | Event                   | Notes                          |
+| -------------- | ----------------------- | ------------------------------ |
+| Fri, 6.3       | Project kickoff         |                                |
+| **Tue, 10.3**  | **1st Sprint planning** | *We are here* <--              |
+| Fri, 13.3      | Support session         | **Obligatory**                 |
+| Fri, 20.3      | 1st Sprint review       |                                |
+| Fri, 27.3      | Support session         | Optional                       |
+| Thu–Wed, 2–8.4 | Easter holiday          | No sessions during this period |
+| Fri, 10.4      | 2nd Sprint review       |                                |
+| Fri, 17.4      | Support session         | Optional                       |
+| Fri, 23.4      | Project midterm seminar |                                |
+| Fri, 1.5       | Support session         | May Day (normally no sessions) |
+| Fri, 8.5       | 4th Sprint review       |                                |
+| Fri, 15.5      | Support session         | Optional                       |
+| Fri, 22.5      | Project delivery        |                                |
+
+
 ## Getting Started for New Contributors
 
 If you are joining the project, the following steps will help you get oriented.
