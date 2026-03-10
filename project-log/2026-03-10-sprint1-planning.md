@@ -9,7 +9,7 @@
 **Facilitator:** Ki Chun (Scrum Master)
 
 
-# 1. Purpose of the Meeting
+## 1. Purpose of the Meeting
 
 The purpose of the session was to:
 
@@ -23,7 +23,7 @@ The purpose of the session was to:
 * assign literature review responsibilities
 
 
-# 2. Team Introductions
+## 2. Team Introductions
 
 The meeting began with a short round of introductions.
 
@@ -35,7 +35,7 @@ The meeting began with a short round of introductions.
 * **Eemil** introduced himself as a **geoinformatics master's student** with some coding experience.
 
 
-# 3. Project Overview
+## 3. Project Overview
 
 The team confirmed that the project focuses on evaluating and improving the **spatial reasoning abilities of large language models**.
 
@@ -49,7 +49,7 @@ The main objective is to understand:
 The four research questions listed in the project description form the overall scope of the project.
 
 
-# 4. Sprint 1 Goal
+## 4. Sprint 1 Goal
 
 The goal of Sprint 1 is to **build a shared understanding of the current research landscape on LLM spatial reasoning and establish the foundation for later experimental work**.
 
@@ -64,7 +64,7 @@ During this sprint, the team will:
 The expected outcome of the sprint is a **clear overview of existing methods and tools**, along with initial technical directions for implementing the evaluation experiments in later sprints.
 
 
-# 5. Project Workflow and Management Approach
+## 5. Project Workflow and Management Approach
 
 The project will follow a **sprint-based workflow**.
 
@@ -87,7 +87,7 @@ Once a sprint begins:
 The team also agreed that **any member can add tasks to the master backlog** when new ideas or research directions arise.
 
 
-# 6. Roles and Responsibilities
+## 6. Roles and Responsibilities
 
 For Sprint 1 the roles are:
 
@@ -121,7 +121,7 @@ The team agreed that:
 * no member should stay in the same role throughout the whole project
 
 
-# 7. GitHub Organization and Project Board
+## 7. GitHub Organization and Project Board
 
 Ki Chun presented the **Spatial Ninjas GitHub organization** and the project board.
 
@@ -151,7 +151,7 @@ Some additional setup was required to ensure all members have the correct permis
 * create and modify issues
 
 
-# 8. Project Timeline
+## 8. Project Timeline
 
 The team reviewed the planned timeline.
 
@@ -169,7 +169,7 @@ Important dates include:
 Sprint lengths are roughly **two weeks**, although adjustments may occur depending on progress.
 
 
-# 9. Communication
+## 9. Communication
 
 The team agreed that:
 
@@ -180,7 +180,7 @@ The team agreed that:
 Sprint review and next sprint planning may either be separate meetings or combined depending on scheduling needs.
 
 
-# 10. Repository Structure and Documentation
+## 10. Repository Structure and Documentation
 
 The team discussed how to organize research notes and documentation.
 
@@ -200,7 +200,7 @@ Therefore the team agreed that:
 This aligns with the backlog item **Define documentation practices**.
 
 
-# 11. Sprint 1 Focus
+## 11. Sprint 1 Focus
 
 Sprint 1 primarily focuses on:
 
@@ -220,7 +220,7 @@ However, some groundwork should begin regarding:
 * benchmark design approaches
 
 
-# 12. Backlog Review
+## 12. Backlog Review
 
 The team reviewed the current backlog and confirmed that the following tasks belong to **Sprint 1**.
 
@@ -247,7 +247,7 @@ The team reviewed the current backlog and confirmed that the following tasks bel
 * Identify evaluation and benchmarking tools
 
 
-# 13. Definition of Done
+## 13. Definition of Done
 
 For literature review tasks, the team agreed that a task is considered **done** when the reader can summarize:
 
@@ -259,7 +259,7 @@ For literature review tasks, the team agreed that a task is considered **done** 
 * how the paper relates to the project
 
 
-# 14. Programming Language Decision
+## 14. Programming Language Decision
 
 During the discussion the team agreed that:
 
@@ -273,7 +273,7 @@ The decision was motivated by:
 * team familiarity
 
 
-# 15. Discussion of Possible Implementation Direction
+## 15. Discussion of Possible Implementation Direction
 
 Although Sprint 1 focuses on literature review, the team discussed potential future approaches for experiments.
 
@@ -292,7 +292,7 @@ These discussions will influence later tasks such as:
 * implementing automated evaluation pipelines
 
 
-# 16. Literature Reading Strategy
+## 16. Literature Reading Strategy
 
 The team agreed that:
 
@@ -302,7 +302,7 @@ The team agreed that:
 This allows each member to develop deeper expertise while maintaining shared project understanding.
 
 
-# 17. Paper Assignments
+## 17. Paper Assignments
 
 Based on the project board, the Sprint 1 paper assignments are:
 
@@ -316,7 +316,7 @@ Based on the project board, the Sprint 1 paper assignments are:
 Each member will summarize their assigned paper and contribute findings to the literature overview.
 
 
-# 18. Timekeeping and Project Log
+## 18. Timekeeping and Project Log
 
 The course requires:
 
@@ -329,7 +329,7 @@ Each team member will maintain their own time log.
 Meeting notes will be recorded as part of the **project log**.
 
 
-# 19. Key Decisions
+## 19. Key Decisions
 
 * Sprint 1 focuses on **literature review and project setup**
 * **Ki Chun** acts as Scrum Master for Sprint 1
@@ -343,7 +343,7 @@ Meeting notes will be recorded as part of the **project log**.
 * results should be consolidated into a shared document at the end of the sprint
 
 
-# 20. Action Items
+## 20. Action Items
 
 ### Ki Chun
 
@@ -366,7 +366,7 @@ Meeting notes will be recorded as part of the **project log**.
 * identify evaluation and benchmarking tools
 
 
-# 21. Closing
+## 21. Closing
 
 The meeting concluded with agreement on the Sprint 1 scope and task assignments.
 
