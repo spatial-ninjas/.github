@@ -37,7 +37,7 @@ The repositories in this organization provide the workspace for:
 | Thu–Wed, 2–8.4 | Easter holiday          | No sessions during this period |
 | Fri, 10.4      | 2nd Sprint review       |                                |
 | Fri, 17.4      | Support session         | Optional                       |
-| Fri, 23.4      | Project midterm seminar |                                |
+| Fri, 24.4      | Project midterm seminar |                                |
 | Fri, 1.5       | Support session         | May Day (normally no sessions) |
 | Fri, 8.5       | 4th Sprint review       |                                |
 | Fri, 15.5      | Support session         | Optional                       |
