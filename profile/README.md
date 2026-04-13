@@ -112,20 +112,9 @@ The board is the primary tool for sprint planning, task tracking, and progress v
 
 ## Project Log
 
-Meeting notes and sprint logs are stored in the repository:
+Meeting notes and sprint logs are primarily maintained in a shared Google Doc used by the team during the project.
 
-📂 `.github/project-log`
-
-
-Each entry contains:
-
-- Date
-- Participants
-- Topics discussed
-- Decisions made
-- Planned next steps
-
-Sprint reviews and other key milestones should also be recorded here.
+Repository materials may later summarize or archive key project-log content, but the shared Google Doc is the main working record during the project.
 
 
 ## Course Deliverables
