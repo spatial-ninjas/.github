@@ -6,8 +6,12 @@
 
 <p align="center">
   <a href="https://github.com/orgs/spatial-ninjas/projects/1">
-    📋 Project Board
+    Project Board
   </a>
+  |
+  <a href="https://github.com/spatial-ninjas/research">research</a>
+  |
+  <a href="https://github.com/spatial-ninjas/llm-compare-dashboard">llm-compare-dashboard</a>
 </p>
 
 ## Overview
@@ -30,14 +34,14 @@ The repositories in this organization provide the workspace for:
 | Date           | Event                   | Notes                          |
 | -------------- | ----------------------- | ------------------------------ |
 | Fri, 6.3       | Project kickoff         |                                |
-| **Tue, 10.3**  | **1st Sprint planning** | *We are here* <--              |
-| Fri, 13.3      | Support session         | **Obligatory**                 |
+| Tue, 10.3      | 1st Sprint planning     |                                |
+| Fri, 13.3      | Support session         |                                |
 | Fri, 20.3      | 1st Sprint review       |                                |
 | Fri, 27.3      | Support session         | Optional                       |
 | Thu–Wed, 2–8.4 | Easter holiday          | No sessions during this period |
 | Fri, 10.4      | 2nd Sprint review       |                                |
 | Fri, 17.4      | Support session         | Optional                       |
-| Fri, 24.4      | Project midterm seminar |                                |
+| **Fri, 24.4**  | **Project midterm seminar** | *We are here* <--              |
 | Fri, 1.5       | Support session         | May Day (normally no sessions) |
 | Fri, 8.5       | 4th Sprint review       |                                |
 | Fri, 15.5      | Support session         | Optional                       |
@@ -114,7 +118,7 @@ The board is the primary tool for sprint planning, task tracking, and progress v
 
 Meeting notes and sprint logs are primarily maintained in a shared Google Doc used by the team during the project.
 
-Repository materials may later summarize or archive key project-log content, but the shared Google Doc is the main working record during the project.
+Repository materials may later summarize or archive key project-log content, but the [shared Google Doc](https://docs.google.com/document/d/11h-INtL7AyNGRWCvQHuht3CC9ALObqWDDY3mYXxbeNA/edit?tab=t.0#heading=h.ey111c86keha) is the main working record during the project.
 
 
 ## Course Deliverables
@@ -127,7 +131,7 @@ This project constitutes **50% of the course grade** and requires the following 
 
 **Presentations**: A mid-term seminar demo and a final project presentation.
 
-**Timekeeping**: Each team member must log time with **30-minute precision**, e.g.:
+**[Timekeeping](https://docs.google.com/spreadsheets/d/1BJou-bTwQKUmrbxb6oVhIHar71k-xp9bX-a6NKKsn0U/)**: Each team member must log time with **30-minute precision**, e.g.:
 
 ```
 2026-03-03  Literature review         1.5 h
